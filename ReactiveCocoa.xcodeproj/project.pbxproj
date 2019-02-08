@@ -1497,7 +1497,7 @@
 				ORGANIZATIONNAME = GitHub;
 				TargetAttributes = {
 					57A4D1AF1BA13D7A00F7D4B1 = {
-						LastSwiftMigration = 0810;
+						LastSwiftMigration = 1010;
 					};
 					7DFBED021CDB8C9500EE435B = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -1508,16 +1508,23 @@
 						LastSwiftMigration = 0920;
 						ProvisioningStyle = Automatic;
 					};
+					9A73DFAC216D3C550069AD76 = {
+						LastSwiftMigration = 1010;
+					};
+					9A73DFBD216D3C570069AD76 = {
+						LastSwiftMigration = 1010;
+					};
 					9AC03A561F7CC3BF00EC33C1 = {
 						CreatedOnToolsVersion = 9.0;
+						LastSwiftMigration = 1010;
 					};
 					A9B315531B3940610001CB9C = {
 						CreatedOnToolsVersion = 7.0;
-						LastSwiftMigration = 0810;
+						LastSwiftMigration = 1010;
 					};
 					D04725E919E49ED7006002AA = {
 						CreatedOnToolsVersion = 6.1;
-						LastSwiftMigration = 0810;
+						LastSwiftMigration = 1010;
 					};
 					D04725F419E49ED7006002AA = {
 						CreatedOnToolsVersion = 6.1;
@@ -1525,7 +1532,7 @@
 					};
 					D047260B19E49F82006002AA = {
 						CreatedOnToolsVersion = 6.1;
-						LastSwiftMigration = 0810;
+						LastSwiftMigration = 1010;
 					};
 					D047261519E49F82006002AA = {
 						CreatedOnToolsVersion = 6.1;
@@ -2064,6 +2071,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -2076,6 +2084,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Test;
 		};
@@ -2088,6 +2097,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -2100,6 +2110,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Profile;
 		};
@@ -2201,6 +2212,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SDKROOT = iphoneos;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -2214,6 +2226,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SDKROOT = iphoneos;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Test;
 		};
@@ -2227,6 +2240,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SDKROOT = iphoneos;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -2240,6 +2254,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SDKROOT = iphoneos;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Profile;
 		};
@@ -2253,6 +2268,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SDKROOT = appletvos;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -2266,6 +2282,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SDKROOT = appletvos;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Test;
 		};
@@ -2279,6 +2296,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SDKROOT = appletvos;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -2292,6 +2310,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SDKROOT = appletvos;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Profile;
 		};
@@ -2401,6 +2420,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SDKROOT = macosx;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -2414,6 +2434,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SDKROOT = macosx;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Test;
 		};
@@ -2427,6 +2448,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SDKROOT = macosx;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -2440,6 +2462,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SDKROOT = macosx;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Profile;
 		};
@@ -2452,6 +2475,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -2464,6 +2488,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Test;
 		};
@@ -2476,6 +2501,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -2488,6 +2514,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Profile;
 		};
@@ -2551,6 +2578,7 @@
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -2563,6 +2591,7 @@
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -2595,6 +2624,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -2607,6 +2637,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -2663,6 +2694,7 @@
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Profile;
 		};
@@ -2685,6 +2717,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Profile;
 		};
@@ -2731,6 +2764,7 @@
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Test;
 		};
@@ -2753,6 +2787,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/module.modulemap";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Test;
 		};
